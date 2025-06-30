@@ -31,6 +31,10 @@
 <p align="center">
     <strong>3. DEPLOY TO HEROKU</strong>
     <br>
+    <a href="[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSAJID-XD-1%2FNIGHTMARE-MD)" target="_blank">
+        <img alt="WEBSITE" src="https://img.shields.io/badge/Let%27s_Go-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkred&color=darkred"/>
+    </a>
+</p>
     
 🔥 NIGHTMARE-MD – The Ultimate WhatsApp Multi-Device Bot 🔥
 
