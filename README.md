@@ -41,13 +41,10 @@
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSAJID-XD-1%2FNIGHTMARE-MD) 
    
-   
-  2..DEPLOY ON RENDER ⤵️
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/kingmalvin/LITE-MD.git)
+ 
 
 
-   3..DEPLOY ON GITHUB ⤵️
+   2..DEPLOY ON GITHUB ⤵️
 
 
 </details>
@@ -59,41 +56,7 @@
 <h3 align-"center"> Important</h3>
 <h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
 
-```
-name: Node.js CI
 
-on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
-
-jobs:
-  build:
-
-    runs-on: ubuntu-latest
-
-    strategy:
-      matrix:
-        node-version: [20.x]
-
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: ${{ matrix.node-version }}
-
-    - name: Install dependencies
-      run: npm install
-
-    - name: Start application
-      run: npm start
-```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 ### Thank You Dear
