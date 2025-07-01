@@ -24,7 +24,7 @@
 
 > To deploy, generate your session ID from the link below:
 <p align="left">
-  <a href="https://nightmare-session-01e49a91a966.herokuapp.com/">
+  <a href="https://nightmare-session-70cfe6c212ab.herokuapp.com/">
     <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
   </a>
 </p>
