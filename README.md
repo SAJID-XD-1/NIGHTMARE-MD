@@ -28,6 +28,61 @@
 - 📦 **Download Commands** - Download from YouTube, TikTok, MediaFire, and more
 - 🎨 **Customizable** - Change bot name, logo, and prefix easily
 - 🚀 **24/7 Hosting** - Deploy on Heroku, Railway, or any VPS
+- 
+🚀 Deployment
+
+Heroku
+
+https://www.herokucdn.com/deploy/button.svg
+
+Railway
+
+https://railway.app/button.svg
+
+Manual Deployment
+
+```bash
+git clone https://github.com/XdKing2/free-sc-mini
+cd free-sc-mini
+npm install
+npm start
+```
+
+---
+
+📊 Environment Variables
+
+Variable Description Default
+PORT Web server port 5000
+OWNER_NUMBER Owner WhatsApp number 923163474842
+OWNER_NAME Owner display name 𝐍īiפʜᴛᴍʌ̄ʀə: 金 - 乛 𝐑əʈiīɣə̲ᴅ
+MONGO_URI MongoDB connection string -
+
+---
+
+👑 Owner
+
+𝐍īiפʜᴛᴍʌ̄ʀə: 金 - 乛 𝐑əʈiīɣə̲ᴅ
+
+· WhatsApp: +923163474842
+· GitHub: @XdKing2
+· Channel: Join Channel
+
+---
+
+💬 Support
+
+For support, join our WhatsApp Channel or open an issue on GitHub.
+
+---
+
+<div align="center">
+
+© 2025 𝐍ɪɢʜᴛᴍᴀʀᴇ 𝐌ᴅ. Powered by 𝐍ɪɢʜᴛᴍᴀʀᴇ 𝐓ᴇᴄʜ.
+
+Made with ❤️ by 𝐍īiפʜᴛᴍʌ̄ʀə: 金 - 乛 𝐑əʈiīɣə̲ᴅ
+
+</div>
 
 ---
 
