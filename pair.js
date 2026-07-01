@@ -66,7 +66,7 @@ const config = {
 };
 
 // ===== MONGO SETUP =====
-const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://malvintech11_db_user:0SBgxRy7WsQZ1KTq@cluster0.xqgaovj.mongodb.net/?appName=Cluster0';
+const MONGO_URI = process.env.MONGO_URI || 'mongodb+srv://mrkhan54094_db_user:<db_password>@cluster0.isnynee.mongodb.net/?appName=Cluster0';
 const MONGO_DB = process.env.MONGO_DB || 'Nightmare_MD';
 
 let mongoClient, mongoDB;
