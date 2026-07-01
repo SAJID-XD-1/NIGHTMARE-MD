@@ -1,108 +1,70 @@
-<!-- 🌙 𝐍ɪɢʜᴛᴍᴀʀᴇ 𝐌ᴅ | Modern Profile README -->
+<!-- ₹REE WA BOT | Modern Profile README  -->
 
 <p align="center">
-  <img src="https://files.catbox.moe/f9gwsx.jpg" alt="𝐍ɪɢʜᴛᴍᴀʀᴇ 𝐌ᴅ Banner" width="100%">
+  <img src="https://files.catbox.moe/f9gwsx.jpg" alt="NIGHTMARE MD BOT" width="100%">
 </p>
 
-<h1 align="center">🌙 𝐍ɪɢʜᴛᴍᴀʀᴇ 𝐌ᴅ</h1>
-<h3 align="center">👑 金 - 乛 𝐑əʈiīɣə̲ᴅ</h3>
+<h1 align="center">Hi 👋, I'm Sajid Ali</h1>
+<h3 align="center">💻 Passionate Developer | Exploring the Boundless World of Technology 🌍</h3>
 
 <p align="center">
   <a href="https://wa.me/923163474842" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="30">
-    <strong> 𝐍ɪɢʜᴛᴍᴀʀᴇ 𝐌ᴅ</strong>
+    <strong> FREE WA BOT</strong>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XdKing2&label=Profile%20views&color=0e75b6&style=flat" alt="XdKing2" />
+  <img src="https://komarev.com/ghpvc/?username=SAJID-XD-1&label=Profile%20views&color=0e75b6&style=flat" alt="SAJID-XD-1" />
 </p>
 
 ---
 
-## 🌟 Features
+## 🌐 Deploy
 
-- 🤖 **Advanced Plugin System** - Load, unload, and reload plugins dynamically
-- 📱 **Multi-Device Support** - Connect multiple WhatsApp numbers
-- 🔥 **Auto Status View & Like** - Automatically view and like status updates
-- 📦 **Download Commands** - Download from YouTube, TikTok, MediaFire, and more
-- 🎨 **Customizable** - Change bot name, logo, and prefix easily
-- 🚀 **24/7 Hosting** - Deploy on Heroku, Railway, or any VPS
-- 
-🚀 Deployment
+### Heroku
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SAJID-XD-1/NIGHTMARE-MD)
 
-Heroku
+### Other Platforms
+- Railway
+- Render
+- DigitalOcean
+- AWS
+- Self-hosted
 
-https://www.herokucdn.com/deploy/button.svg
+## 🤝 Contributing
 
-Railway
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-https://railway.app/button.svg
+## 📄 License
 
-Manual Deployment
+This project is licensed under the MIT License.
 
-```bash
-git clone https://github.com/XdKing2/free-sc-mini
-cd free-sc-mini
-npm install
-npm start
-```
+## 👨‍💻 Developer
 
----
+**SAJID ALI (SAJID-XD-1)**
 
-📊 Environment Variables
+- GitHub: [@SAJID-XD-1](https://github.com/SAJID-XD-1)
+- WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029Vb8lKAHAjPXG9sYGrb1O)
 
-Variable Description Default
-PORT Web server port 5000
-OWNER_NUMBER Owner WhatsApp number 923163474842
-OWNER_NAME Owner display name 𝐍īiפʜᴛᴍʌ̄ʀə: 金 - 乛 𝐑əʈiīɣə̲ᴅ
-MONGO_URI MongoDB connection string -
+## 💬 Support
 
----
-
-👑 Owner
-
-𝐍īiפʜᴛᴍʌ̄ʀə: 金 - 乛 𝐑əʈiīɣə̲ᴅ
-
-· WhatsApp: +923163474842
-· GitHub: @XdKing2
-· Channel: Join Channel
-
----
-
-💬 Support
-
-For support, join our WhatsApp Channel or open an issue on GitHub.
+For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029Vb8lKAHAjPXG9sYGrb1O) or open an issue on GitHub.
 
 ---
 
 <div align="center">
 
-© 2025 𝐍ɪɢʜᴛᴍᴀʀᴇ 𝐌ᴅ. Powered by 𝐍ɪɢʜᴛᴍᴀʀᴇ 𝐓ᴇᴄʜ.
+**© 2026 Free Mini. Powered by Nightmare Tech. All rights reserved.**
 
-Made with ❤️ by 𝐍īiפʜᴛᴍʌ̄ʀə: 金 - 乛 𝐑əʈiīɣə̲ᴅ
+Made with ❤️ by Sajid Ali
 
 </div>
 
 ---
 
-## 🔌 Plugin System
+⭐ **Thank you for visiting my profile!** 🙌  
+*Keep learning, keep building, and keep growing 🚀*
 
-### Available Plugins
 
-| Plugin | Commands | Description |
-|--------|----------|-------------|
-| Menu | .menu, .help, .start | Main menu and navigation |
-| Owner | .owner, .broadcast, .exec | Admin and owner commands |
-| Download | .song, .tiktok, .mediafire | Media downloader |
-| Tools | .ping, .alive | Utility commands |
-| Creative | .ai, .chat | AI and creative tools |
-| Fun | .joke, .quote, .lyrics | Fun and entertainment |
 
-### Plugin Management
-
-```bash
-.plugins         # List all loaded plugins
-.loadplugin <name>   # Load a plugin
-.reloadplugin <name> # Reload a plugin
-.pluginstats     # Show plugin statistics
