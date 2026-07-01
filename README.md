@@ -2,7 +2,7 @@
 <!-- NIGHTMARE MD | ASSEMBLED README -->
 
 <div align="center">
-  <img src="https://files.catbox.moe/f9gwsx.jpg" alt="NIGHTMARE MD BOT" width="100%">
+  <img src="https://files.catbox.moe/wuc14g.jpg" alt="NIGHTMARE MD BOT" width="100%">
   
   <br><br>
   
